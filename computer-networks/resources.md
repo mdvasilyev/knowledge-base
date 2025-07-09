@@ -1,0 +1,12 @@
+# Статьи на Хабре
+- Обзорная статья — [Компьютерные сети для начинающих](https://habr.com/ru/articles/925448/)
+- Цикл статей — Основы компьютерных сетей
+  - [Основные сетевые термины и сетевые модели](https://habr.com/ru/amp/publications/307252/)
+  - [Протоколы верхнего уровня](https://habr.com/ru/articles/307714/)
+  - [Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/articles/308636/)
+  - [Сетевые устройства и виды применяемых кабелей](https://habr.com/ru/articles/312340/)
+  - [Понятие IP адресации, масок подсетей и их расчет](https://habr.com/ru/articles/314484/)
+  - [Понятие VLAN, Trunk и протоколы VTP и DTP](https://habr.com/ru/articles/319080/)
+  - [Протокол связующего дерева: STP](https://habr.com/ru/articles/321132/)
+  - [Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/articles/334778/)
+  - [Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/articles/335090/)
